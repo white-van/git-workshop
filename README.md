@@ -1,5 +1,7 @@
 # White Van Git Workshop
 
+Slides <a href='https://docs.google.com/presentation/d/17yi7HSQ0Bmw8VOmikesOyCSg5q9rKHXPy4Hufym8u4A/edit?usp=sharing'>here</a>
+
 ## Definitions
 
 1. Repository
