@@ -1,6 +1,6 @@
 # White Van Git Workshop
 
-Slides <a href='https://docs.google.com/presentation/d/17yi7HSQ0Bmw8VOmikesOyCSg5q9rKHXPy4Hufym8u4A/edit?usp=sharing'>here</a>
+Slides <a href='https://docs.google.com/presentation/d/19SYnIkhExyLfaQktxDcx-sm8bRm2dxcsMXiC2RSIY-U/edit?usp=sharing'>here</a>
 
 ## Definitions
 
